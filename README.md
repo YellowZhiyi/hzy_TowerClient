@@ -51,5 +51,6 @@ A：天启坦克的【斩杀】指的是可以对生命值30%以下的单位造�
 java -jar  card-0.0.1-SNAPSHOT.jar
 
 然后启动两个客户端即可。
+https://github.com/HuZhYi/hzy_TowerServer
 
 
